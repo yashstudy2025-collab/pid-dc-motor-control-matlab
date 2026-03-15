@@ -1,2 +1,6 @@
-# pid-dc-motor-control-matlab
-Implementation of PID control for DC motor including modeling, tuning, disturbance rejection, anti-windup and discrete implementation.
+# DC Motor Speed Control using P and PI Controllers
+
+## Project Overview
+This project demonstrates speed control of a DC motor using P and PI controllers in Simulink.
+The objective is to study how controller parameters affect system performance such as overshoot,
+rise time, settling time, and steady-state error.
