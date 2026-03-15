@@ -25,7 +25,7 @@ for i = 1:numel(kp_values)
     kp = kp_values(i);
 
     %Run Simulink model
-   out=sim('Motorcontrol');
+   out=sim('Motorcontrol_P');
 
    %%Extract Simulation Data
    t= out.omega_out.time;
