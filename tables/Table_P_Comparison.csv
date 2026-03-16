@@ -1,0 +1,8 @@
+﻿Control system Performance for different kp Values,,,,
+kp,finalomega,overshoot,Risetime,Settling_Time
+0.05,135.46,0,NaN,NaN
+0.1,161.55,0,NaN,NaN
+0.2,198.7,2.203,0.00020945,NaN
+0.5,190.91,25.68,9.89E-05,NaN
+1,195.3,41.72,6.63E-05,NaN
+2,197.36,55.047,4.14E-05,0.0006873
