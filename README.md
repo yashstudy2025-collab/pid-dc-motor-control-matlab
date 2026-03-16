@@ -101,7 +101,7 @@ Observations:
 
 After selecting a suitable **Kp**, the integral gain **Ki** was varied to eliminate steady-state error.
 
-![PI tuning](results/PI_controller_Ki_comparison.pdf)
+![PI tuning](results/PI_controller_different_Ki_comparison.pdf)
 
 Observations:
 
