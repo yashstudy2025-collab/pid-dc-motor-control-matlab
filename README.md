@@ -101,7 +101,7 @@ Observations:
 
 After selecting a suitable **Kp**, the integral gain **Ki** was varied to eliminate steady-state error.
 
-![PI tuning](results/ki_subplot_comparison.png)
+![PI tuning](results/PI_controller_Ki_comparison.pdf)
 
 Observations:
 
@@ -115,7 +115,7 @@ Observations:
 
 Final comparison between P and PI controllers.
 
-![P vs PI](results/p_vs_pi_subplot_comparison.png)
+![P vs PI](results/P_vs_PI_Comparison.pdf)
 
 Key observations:
 
@@ -130,7 +130,7 @@ Key observations:
 | Controller | Kp | Ki | Overshoot | Rise Time | Settling Time | Steady-State Error |
 |------------|----|----|-----------|-----------|---------------|--------------------|
 | P | 0.5 | 0 | small | medium | medium | present |
-| PI | 0.6 | 3 | low | fast | short | ~0 |
+| PI | 0.6 | 4 | low | fast | short | ~0 |
 
 ---
 
